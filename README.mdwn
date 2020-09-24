@@ -1,0 +1,20 @@
+# k-Means Algorithm for Color Quanitization 
+
+An interesting application of k-Means Clustering Algorithm is to art analysis. In particular, given an art work, we can examine what the art would look like when limited to c colors, where c is the number of clusters. 
+
+This method can be useful for art scholars examining large-scale trends in style and technique, over decades. Moreover, it can be a useful tool in determining artist if an artist is known to use a certain number of colors in their art, etc. 
+
+Images are outputted and cost plots are generated based on the Cost Criterion formula. 
+
+## Sample Case
+This algorithm was applied to Hokusai's Beautiful Women #2 painting. Different cluster sizes and respective costs were examined (c = 1, 2, ... 10).
+
+### Original Image
+
+
+### Produced Images
+
+
+## Produced Cost Plot
+
+
