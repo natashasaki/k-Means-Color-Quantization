@@ -84,7 +84,7 @@ for i in range(10):
     plt.imshow(image_clustered)
     plt.title('Updated image c = ' + str(num_clusters))
     plt.axis('off')
-    savepath = os.path.join('.', 'latest_' + str(num_clusters) + '.png')
+    savepath = os.path.join('.', 'updated_' + str(num_clusters) + '.png')
     plt.savefig(fname=savepath, transparent=True, format='png', bbox_inches='tight')
     plt.show()
 
