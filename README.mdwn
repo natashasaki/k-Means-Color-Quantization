@@ -27,5 +27,6 @@ This algorithm was applied to Hokusai's Beautiful Women #2 painting. Different c
 
 
 ### Produced Cost Plot
+![Produced image c = 1](https://github.com/natashasaki/k-Means-Color-Quantization/blob/master/figures/Costs.png?raw=true)
 
 
